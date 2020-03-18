@@ -1,5 +1,5 @@
-os:  osx
-language: java        #语言说明
+language: android        #语言说明
+dist: trusty
 jdk: oraclejdk8          #jdk版本
 sudo: required           #权限要求
 #env:                 #环境变量
